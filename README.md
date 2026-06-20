@@ -39,3 +39,9 @@ rajuofficial8084@gmail.com
 
 🔗 LinkedIn:
 https://linkedin.com/in/raju-tiwari-b203b3211
+
+## 📊 GitHub Stats
+
+![Raju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiwariraju&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiwariraju&layout=compact)
