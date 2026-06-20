@@ -15,7 +15,7 @@
 - Git & GitHub
 
 🏆 Achievements:
-- 150+ LeetCode Problems Solved
+- 200+ LeetCode Problems Solved
 - Software Engineer Intern @ SkillCaptain
 - Google Cloud Arcade Facilitator
 
