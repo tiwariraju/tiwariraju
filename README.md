@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Raju Tiwari 👋
 
-<!--
-**tiwariraju/tiwariraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Java Developer | Spring Boot | React | DSA
 
-Here are some ideas to get you started:
+🎓 MCA @ NIET Noida (2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+- Java
+- Spring Boot
+- REST APIs
+- Hibernate/JPA
+- MySQL
+- React.js
+- Next.js
+- Git & GitHub
+
+🏆 Achievements:
+- 150+ LeetCode Problems Solved
+- Software Engineer Intern @ SkillCaptain
+- Google Cloud Arcade Facilitator
+
+🚀 Featured Projects:
+- Job Tracker System
+- Real-Time Chat Application
+- AI Resume Analyzer
+- AI Support Ticket Classifier
+
+🌐 Portfolio:
+https://rajutiwari.netlify.app
+
+📫 Contact:
+rajuofficial8084@gmail.com
+
+🔗 LinkedIn:
+https://linkedin.com/in/raju-tiwari-b203b3211
