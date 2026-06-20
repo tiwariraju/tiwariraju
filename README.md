@@ -2,7 +2,13 @@
 
 ### Software Engineer | Java Developer | Spring Boot | React | DSA
 
+## 🚀 About Me
+
+Backend-focused Software Engineer passionate about building scalable applications using Java, Spring Boot, REST APIs, and Microservices.
+
 🎓 MCA @ NIET Noida (2026)
+💻 200+ LeetCode Problems Solved
+🌱 Currently Learning Microservices & System Design
 
 💻 Tech Stack:
 - Java
